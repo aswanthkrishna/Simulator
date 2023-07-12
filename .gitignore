@@ -1,0 +1,34 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executable files
+*.exe
+
+# CMake build directory
+build/*
+
+# Visual Studio Code specific files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Dependency directories
+dependencies/
+
+# Ignore generated documentation
+doc/
+
+# Ignore user-specific settings
+.idea/
+.vs/
+*.swp
+
+# Ignore generated files
+bin/

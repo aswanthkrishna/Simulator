@@ -1,0 +1,3 @@
+/simulator/CMakeFiles/simulator.dir
+/simulator/CMakeFiles/edit_cache.dir
+/simulator/CMakeFiles/rebuild_cache.dir
