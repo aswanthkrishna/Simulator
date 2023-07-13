@@ -18,7 +18,7 @@ can also be run in Docker using the included dockerfile
 3. run other examples interactively `docker run -it -v $(pwd):/simulator simulator:latest sh ` , `.simulator ../examples/ghz.qasm`
 
 
-###Enhancement 
+### Enhancement 
 
 - Parse openQASM to Intermediate Representation of the quantum circuit before simulating
 - Use n-d tensors for storing Wavefunction instead of flattened vectors, (realized this too late to change)
