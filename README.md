@@ -31,7 +31,7 @@ can also be run in Docker using the included dockerfile
 
 `./simulator ../examples/ghz.qasm`
 
-`Number of qubits: 4
+```Number of qubits: 4
 [H] :0
 [CX] :0->1
 [CX] :0->2
@@ -71,4 +71,4 @@ Prob(| 11 >) = 0
 Prob(| 12 >) = 0
 Prob(| 13 >) = 0
 Prob(| 14 >) = 0
-Prob(| 15 >) = 0.5`
+Prob(| 15 >) = 0.5```
